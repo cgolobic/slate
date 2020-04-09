@@ -1,0 +1,7 @@
+windows:
+
+When running dev env with docker-compose, allow volume access to C:/ in your docker desktop settings
+
+deploy.sh script commits to the gh-pages branch of the repo
+
+bundle exec middleman build --clean generates static files in build/ directory
